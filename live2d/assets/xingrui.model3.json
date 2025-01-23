@@ -1,0 +1,18 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "立绘双视图.moc3",
+		"Textures": [
+			"立绘双视图.8192/texture_00.png"
+		],
+		"Physics": "立绘双视图.physics3.json",
+		"DisplayInfo": "立绘双视图.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}
